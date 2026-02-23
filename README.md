@@ -1,9 +1,12 @@
 ## Hey 👋, I'm Abeer Adel!
-
-<a href=https://www.linkedin.com/in/abeer-adel-07a71b327/><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href=https://www.kaggle.com/berry22><img align='left' alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<p align="left">
+  <a href=https://www.linkedin.com/in/abeer-adel-07a71b327/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href=https://www.kaggle.com/berry22><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href=https://www.datacamp.com/portfolio/abeeradel872><img src="https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" /></a>
+</p>
 
 <br>
+
 <br>
 
 I am a Data Analyst passionate about turning raw data into meaningful insights that drive business decisions. I enjoy working with structured data, identifying patterns, and building dashboards that clearly communicate performance and results.
