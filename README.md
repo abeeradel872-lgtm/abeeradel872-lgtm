@@ -17,14 +17,14 @@ I am a Data Analyst passionate about turning raw data into meaningful insights t
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on Data Analysis projects
-- 🌱 &nbsp; I’m currently learning Advanced SQL, Python, Power BI
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/abeeradel872-lgtm?tab=repositories)
-- 💬 &nbsp; Ask me about Excel, SQL, Python, Power BI, Tableau
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abeer-adel-07a71b327/)
-
-
-<br>
+- 🎓 I'm a Business Information Systems (BIS) Student with a deep passion for data analysis and business intelligence
+- 📊 I believe every dataset has a story to tell – my job is to uncover insights that drive smarter decisions
+- 📈 I specialize in building interactive dashboards that transform complex numbers into clear, visual narratives
+- 🔍 I enjoy diving deep into data to find hidden patterns, trends, and opportunities that others might miss
+- 🛠️ My toolkit includes: SQL, Python, Power BI, Excel, and Tableau
+- 💡 I use my BIS background to bridge the gap between business and data
+- 🤝 I'm always excited to collaborate on real-world data projects that make a difference
+- ☕️ Fun fact: I can spend hours exploring a dataset and feel like I've been playing a game!
 
 ## 🛠️ Languages and Tools
 
@@ -57,6 +57,17 @@ I am a Data Analyst passionate about turning raw data into meaningful insights t
 ### ⚙️ Other Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+## 👇 Stuff I built (while crying over data)
+🔗 [My Repositories](https://github.com/abeeradel872-lgtm?tab=repositories)
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abeeradel872-lgtm&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeeradel872-lgtm&layout=compact&theme=radical" width="48%" />
 </p>
 <!--
 **abeeradel872-lgtm/abeeradel872-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
