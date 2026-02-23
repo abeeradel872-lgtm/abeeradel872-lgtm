@@ -65,10 +65,9 @@ I am a Data Analyst passionate about turning raw data into meaningful insights t
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abeeradel872-lgtm&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeeradel872-lgtm&layout=compact&theme=radical" width="48%" />
-</p>
+![Abeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=abeeradel872-lgtm&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abeeradel872-lgtm&layout=compact&theme=radical)
 <!--
 **abeeradel872-lgtm/abeeradel872-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
