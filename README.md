@@ -18,7 +18,7 @@ I am a Data Analyst passionate about turning raw data into meaningful insights t
 - 🌱 &nbsp; I’m currently learning Advanced SQL, Python, Power BI
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/abeeradel872-lgtm?tab=repositories)
 - 💬 &nbsp; Ask me about Excel, SQL, Python, Power BI, Tableau
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](www.linkedin.com/in/abeer-adel-07a71b327)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abeer-adel-07a71b327/)
 
 
 <br>
