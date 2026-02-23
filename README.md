@@ -19,7 +19,6 @@ I am a Data Analyst passionate about turning raw data into meaningful insights t
 
 - 🎓 I'm a Business Information Systems (BIS) Student with a deep passion for data analysis and business intelligence
 - 📊 I believe every dataset has a story to tell – my job is to uncover insights that drive smarter decisions
-- 📈 I specialize in building interactive dashboards that transform complex numbers into clear, visual narratives
 - 🔍 I enjoy diving deep into data to find hidden patterns, trends, and opportunities that others might miss
 - 🛠️ My toolkit includes: SQL, Python, Power BI, Excel, and Tableau
 - 💡 I use my BIS background to bridge the gap between business and data
